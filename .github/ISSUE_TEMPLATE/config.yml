@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Report a bug
+    url: https://github.com/cometchat-pro
+    about: Please create a Github issue for the relevant SDK/UI Kit. We do not directly provide support for tutorials.
   - name: Feature Request
     url: https://feedback.cometchat.com/cometchat-pro-feature-requests
     about: Suggest an idea or a feature for this project
